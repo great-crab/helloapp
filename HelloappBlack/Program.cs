@@ -2,12 +2,12 @@
 {
     public static void Main()
     {
-
+        PrintHello();
     }
 
     public static void PrintHello()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     public static void GreetWhite() 
