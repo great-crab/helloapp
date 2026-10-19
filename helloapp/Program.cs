@@ -5,6 +5,8 @@ public class HelloApp()
     public static void Main()
     {
         PrintHello();
+        GreetWhite();
+        GreetBlack();
     }
 
     public static void PrintHello()
